@@ -17,6 +17,8 @@ It is also essential that everyone be educated and well versed in critical think
 ### Participation
 Anyone who wants to have a voice in our government should have a fair opportunity to do so.
 
+Politicians are civil servants and stewards. They must not be for sale, and a core part of their job is to cultivate the next generation of leaders and ensure the continued survival of our precious democracy.
+
 ## Focus on goals not paths
 I'm consistently surprised in talking with people of all political stripes to learn how many things we agree on.
 
