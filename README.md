@@ -30,8 +30,27 @@ I think they are good.
 
 I hope you share them too.
 
+## Education
+Our first duty to the future is to educate. We must share the things we have learned in life. We were afforded great opportunities by our predecessors and we must not let those go to waste. As I write this, our population is about seven and a half billion. Over our history, there have been on the order of a hundred billion people born. Conservatively assuming a average lifespan of only 30 years, that is over 200 times the age of our Universe worth of human experiences.
+
+Everything we have and everything we do is built atop that. It is criminal and a great sign of disrespect not to learn and share as much as we can.
+
+### Art and the Humanities
 
 
+### Civics
+
+### Critical Thinking
+
+### Science
+
+## Healthcare
+
+## Fiscal Responsibility
+
+## Research
+
+## Truth and Honesty
 
 
 
