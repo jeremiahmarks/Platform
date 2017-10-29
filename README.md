@@ -1,4 +1,23 @@
-# Platform
+# Scott Menor's Platform
+dated: 29 October, 2017
+
+## Preamble
+I believe it is our duty and responsibility to act as stewards. We must ensure that the things we have endure for future generations. We should do whatever we can to ensure that we leave the world better than we found it.
+
+This is the heart of what guides me and my team. It is the reason we are doing this - even though it's hard, and trying, and even though it means we have to do things we don't want to. We will work hard and make tough sacrifices. We will do the right things even though they are not expedient.
+
+I believe that the American experiment of representative democracy is worth preserving. While it is not perfect, it has shown enormous potential - not always realized, but, it does not take a great breadth or depth of knowledge of our history to see what we can accomplish in the moments when we come together for the greater good.
+
+It is critical that we invest in our future. There are so many things that matter - improving education, protecting our environment, funding basic research. The return on these investments may not come tomorrow, but history has shown that it will come and its value will be greater than we can imagine.
+
+Many things are required to protect and nurture our democracy. An educated citizenry is at the foundation. Education is essential - not simply because it may help us earn more money, but because it will enrich our lives in ways that we can't imagine.
+
+Money is great but it is not the end-all be-all of our existence. There are other things that matter more. At its essence, money has no intrinsic value unto itself. Its only real worth comes from what it enables us to do. 
+
+
+
+
+
 
 ## Civics
 We all have a duty and responsibility as citizens to be well informed and active participants in our government.
