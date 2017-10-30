@@ -102,8 +102,11 @@ It is wrong for wealthy people who live on investment income to pay a smaller pe
 ## Research and Infrastructure
 In order to ensure the fiscal and technological wellbeing of our descendants, it is crucial that we invest in basic and applied research, and in hard and soft Infrastructure. These are things that have direct and obvious benefits, but their true value is hidden because we can not know all of the ways that they will pay off down the line.
 
+## Service
+We all have a duty to engage in some form of service where we can. That service can be in the form of volunteering, taking an active part in civics, or in the military. When people have lost limbs or lives in service to our country, we have a responsibility to remember what they did for us and to take care of them and their families.
+
 ## Truth and Honesty
-These are core values that matter, and we must hold one another accountable.
+These are core values that matter, and we must hold one another accountable. Intentionally being dishonest is not acceptable and should not be tolerated - particularly when it is an ongoing thing. Lying and deception are contrary to the goal of preserving our democracy.
 
 ## Focus on goals not paths
 I'm consistently surprised in talking with people of all political stripes to learn how many things we agree on.
