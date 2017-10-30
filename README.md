@@ -71,7 +71,7 @@ One of my primary goals as a citizen, candidate, and future congressperson, is t
 If we are unable to think critically, we are susceptible to the whims of con artists and liars. Training students in the art of critical thinking and genuine skepticism is a crucial element in inoculating them against falling for the dishonest and the misguided. Nobody can fool us as easily as we can fool ourselves. For these reasons, we must see to it that wherever possible in every subject there is an emphasis on understanding and escaping logical fallacies, and our own biases.
 
 ### History
-If we do not study history, we can not learn from it.
+If we do not study history, we can not learn from it. It is easy to reduce history to facts and dates, but what matters are the stories and experiences - these are the things we can learn the most from. What worked and why. What didn't work and why not. How have things changed and how have they stayed the same? The wealth of knowledge locked in our history is almost incalculable, and it is incumbent upon us to mine it and to share it with the next generation.
 
 ### Technology, Science, Mathematics, and Engineering
 As Arthur C Clarke said, «Any sufficiently advanced technology is indistinguishable from magic». If we wish to be practitioners of such magic, we must understand the various incantations that make it happen. We must learn about the scientific method, and how it successively leads us to ever better understanding of our Universe. We must learn the language of mathematics, and how to apply these things to make new systems using all of our knowledge.
@@ -84,16 +84,23 @@ We all drink the same water and breathe the same air. It is not «the environmen
 Because of the success of progress and the EPA, people have forgotten
 
 ## Healthcare
-
+It is as wrong for me as an employer to dictate your healthcare as it would be for me to dictate what you can do with your salary. We should not be afraid to lose our jobs because of the consequences that will have to our medical care or that of our families. For these reasons, healthcare should be decoupled from employment. Although it may be possible to get the best care in the world here, as Americans, we spend more and get less than almost any other first world country. We need to rectify that. It is our duty to ourselves, our friends, our families, and our futures.
 
 ## Fiscal Responsibility
-As stewards
+Although it is tempting, and sometimes prudent to put everything on the card, that path only leads to an ever-expanding portion of our economy being dedicated to paying down interest on past debt. This is not sustainable and we must make hard choices that don't rely on magical thinking or fantasy to get us on a sustainable path.
 
-## Research and Investing in our future
+## Personal Responsibility
+We are all members of a society. It is better for all when we share some of our wealth to do things collectively that would be prohibitively expensive or logistical nightmares for us to do individually. Our government should be as nimble and efficient as possible without compromising its function, and we should be free to build individual and generational wealth, but we must not create dynasties of obscene, untaxed wealth that unduly influences our government and economy.
 
+Personal success and profit are good, but these things must not come at the expense of others' ability to subsist. The desire to enrich ourselves and our families is a big part of what makes capitalism work, but it is obscene to gluttonously gorge ourselves. Entrepreneurs and CEOs contribute an outsized amount of value, and deserve outsized compensation for that, but not to the point where it comes at the expense of treating our employees fairly.
+
+It is wrong for wealthy people who live on investment income to pay a smaller percentage in taxes than their lowest paid employees. It is good to be able to pass down what we have worked hard for, but it is wrong for the insanely rich to pass down billions to their heirs untaxed. These are not in conflict.
+
+## Research and Infrastructure
+In order to ensure the fiscal and technological wellbeing of our descendants, it is crucial that we invest in basic and applied research, and in hard and soft Infrastructure. These are things that have direct and obvious benefits, but their true value is hidden because we can not know all of the ways that they will pay off down the line.
 
 ## Truth and Honesty
-These are core values that matter.
+These are core values that matter, and we must hold one another accountable.
 
 ## Focus on goals not paths
 I'm consistently surprised in talking with people of all political stripes to learn how many things we agree on.
@@ -101,3 +108,5 @@ I'm consistently surprised in talking with people of all political stripes to le
 That isn't to say we don't have fundamental differences, but remarkably most of our differences seem to lie in how we can best achieve things, not what those things should be.
 
 As a scientist and engineer, this has always seemed peculiar to me because the hows are implementation details that can be studied and tested, and so long as they are consistent with our morals and ethics, they should not be subject to our tastes.
+
+## Conclusions
