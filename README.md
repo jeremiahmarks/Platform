@@ -60,49 +60,40 @@ It is easy to focus on learning the things that we think will pay us back financ
 
 Architecture, art, poetry, music, etc. are all things that enrich our lives greatly. It is a sign that something is wrong with our society that the people who devote their lives focusing on these endeavors are not rewarded commensurately. We should do all that we can to rectify that unless we want to live in a bland world without style or beauty.
 
-We may not all be interested in pursuing any of these as our primary focus, but
+We may not all be interested in pursuing any of these as our primary focus, but all of us can benefit from tasting a bit of many forms creativity. Without trying, we can never know how much what we want to do later in life might benefit from what we might have learned.
 
 ### Civics
+An understanding of civics is fundamental to fulfilling our duty and responsibility as citizens to be well informed and active participants in our government. For that reason, we must ensure that civics are taught as a core part of education at all levels. We must all understand how our government works, and how to operate the various knobs and levers that influence it.
 
+One of my primary goals as a citizen, candidate, and future congressperson, is to educate and inform as many as possible about civics, and why it matters.
 
 ### Critical Thinking
+If we are unable to think critically, we are susceptible to the whims of con artists and liars. Training students in the art of critical thinking and genuine skepticism is a crucial element in inoculating them against falling for the dishonest and the misguided. Nobody can fool us as easily as we can fool ourselves. For these reasons, we must see to it that wherever possible in every subject there is an emphasis on understanding and escaping logical fallacies, and our own biases.
 
+### History
+If we do not study history, we can not learn from it.
 
-### Science, Technology, Mathematics, and Engineering
-I intentionally avoid putting these
+### Technology, Science, Mathematics, and Engineering
+As Arthur C Clarke said, «Any sufficiently advanced technology is indistinguishable from magic». If we wish to be practitioners of such magic, we must understand the various incantations that make it happen. We must learn about the scientific method, and how it successively leads us to ever better understanding of our Universe. We must learn the language of mathematics, and how to apply these things to make new systems using all of our knowledge.
+
+Just as with the arts, it is essential that we all have at least a cursory understanding of these things if we want to be active participants in the refinement of what we have and the creation of new things to improve our future.
+
+## Environment
+We all drink the same water and breathe the same air. It is not «the environment», but «our environment». We live in it and if we wish to ensure our own survival and comfort, and those of our descendants, we must do what we can to protect our environment.
+
+Because of the success of progress and the EPA, people have forgotten
 
 ## Healthcare
 
-## Fiscal Responsibility
 
-## Research
+## Fiscal Responsibility
+As stewards
+
+## Research and Investing in our future
+
 
 ## Truth and Honesty
-
-
-
-
-
-
-
-## Civics
-We all have a duty and responsibility as citizens to be well informed and active participants in our government.
-
-At the most fundamental level, that means that we have to understand how our government works.
-
-One of my primary goals as a citizen, candidate, and future congressperson is to educate and inform people about how our government works, what is happening within it, and the impact that will make on our lives.
-
-### Education
-For our representative democracy to work, civics and critical thinking must be a required part of early education.
-
-It is essential that we all know how our government works, what levers are available to us to influence it, and how to operate them.
-
-It is also essential that everyone be educated and well versed in critical thinking skills so we are less susceptible to influence by dishonest people.
-
-### Participation
-Anyone who wants to have a voice in our government should have a fair opportunity to do so.
-
-Politicians are civil servants and stewards. They must not be for sale, and a core part of their job is to cultivate the next generation of leaders and ensure the continued survival of our precious democracy.
+These are core values that matter.
 
 ## Focus on goals not paths
 I'm consistently surprised in talking with people of all political stripes to learn how many things we agree on.
