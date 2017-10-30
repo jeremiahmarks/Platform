@@ -1,4 +1,4 @@
-# Scott Menor's Platform
+# My Platform
 dated: 29 October, 2017
 
 ## Preamble
