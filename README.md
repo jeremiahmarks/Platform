@@ -22,6 +22,26 @@ Good people can make mistakes, but when we do, we must face them, accept respons
 
 When our elected officials - our President, our representatives in Congress, our Governors, and Mayors, and state and local legislators speak, they speak with our collective voice. We must not allow that voice to be used in vain. We have a sacred duty both to our nation's founders, and to our progeny that we pick well.
 
+Our government comes from us. If it does not work, it is our failing. It is true that money and deception exert an outsized influence, however it is only through our laziness and indifference that they are allowed to do so.
+
+We have the power. It is in our hands. What we choose to do with it matters and the loss will not only be our own if we fail.
+
+I am a liberal. That is not a bad word. It simply means that I believe in liberty and equality - in freedom, and equal opportunities.
+
+I am a conservative. That is not a bad word. It simply means that I believe there are things that are worth preserving.
+
+I am a libertarian. That is not a bad word. It simply means that I believe in protecting everyone's freedom so long as it does not infringe upon another's.
+
+I am a progressive. That is not a bad word. It simply means that we should work to improve things for ourselves and others.
+
+I am a socialist. That is not a bad word. It simply means that government has a key role in things like healthcare and a strong social safety net.
+
+I am a capitalist. That is not a bad word. It simply means that private ownership and free enterprise are engines that drive our economy.
+
+You may think these things are in conflict. You are wrong. Each complements the others. For that reason, I am an independent. That is not a bad word. It simply means that I apply a core set of principles to each decision and arrive at my own conclusions without being a member of a particular team, and without being invested in particular paths to achieve common goals.
+
+For all of our differences, we share so much in common. All it takes is free and open discussion to find those things, and once we do, the will to determine the best course of action to achieve them and the desire and wherewithal to follow through.
+
 These are my core values.
 
 They guide me and I do my best to follow them.
@@ -35,14 +55,21 @@ Our first duty to the future is to educate. We must share the things we have lea
 
 Everything we have and everything we do is built atop that. It is criminal and a great sign of disrespect not to learn and share as much as we can.
 
-### Art and the Humanities
+### Arts and the Humanities
+It is easy to focus on learning the things that we think will pay us back financially. This is blind.
 
+Architecture, art, poetry, music, etc. are all things that enrich our lives greatly. It is a sign that something is wrong with our society that the people who devote their lives focusing on these endeavors are not rewarded commensurately. We should do all that we can to rectify that unless we want to live in a bland world without style or beauty.
+
+We may not all be interested in pursuing any of these as our primary focus, but
 
 ### Civics
 
+
 ### Critical Thinking
 
-### Science
+
+### Science, Technology, Mathematics, and Engineering
+I intentionally avoid putting these
 
 ## Healthcare
 
