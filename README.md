@@ -110,3 +110,6 @@ That isn't to say we don't have fundamental differences, but remarkably most of 
 As a scientist and engineer, this has always seemed peculiar to me because the hows are implementation details that can be studied and tested, and so long as they are consistent with our morals and ethics, they should not be subject to our tastes.
 
 ## Conclusions
+This is a living document and is intended only as a guide and to set the tone. It is far from comprehensive, but it should contain enough information for you to make informed judgements from, and it should, in broad strokes, show you who I am, what I believe in, and what motivated me to enter politics.
+
+If you have any suggestions to improve it, they are welcome.
