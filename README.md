@@ -83,11 +83,14 @@ We all drink the same water and breathe the same air. It is not «the environmen
 
 Because of the success of progress and the EPA, people have forgotten
 
+## Fiscal Responsibility
+Although it is tempting, and sometimes prudent to put everything on the card, that path only leads to an ever-expanding portion of our economy being dedicated to paying down interest on past debt. This is not sustainable and we must make hard choices that don't rely on magical thinking or fantasy to get us on a sustainable path.
+
 ## Healthcare
 It is as wrong for me as an employer to dictate your healthcare as it would be for me to dictate what you can do with your salary. We should not be afraid to lose our jobs because of the consequences that will have to our medical care or that of our families. For these reasons, healthcare should be decoupled from employment. Although it may be possible to get the best care in the world here, as Americans, we spend more and get less than almost any other first world country. We need to rectify that. It is our duty to ourselves, our friends, our families, and our futures.
 
-## Fiscal Responsibility
-Although it is tempting, and sometimes prudent to put everything on the card, that path only leads to an ever-expanding portion of our economy being dedicated to paying down interest on past debt. This is not sustainable and we must make hard choices that don't rely on magical thinking or fantasy to get us on a sustainable path.
+## Immigration
+We are a nation of immigrants. It is what defines us and regular replenishing is one of our greatest sources of strength. That is not to say that our borders should be completely open, but our continued strength as a nation and our very survival is dependent on making it possible for people who believe in the American dream to come here and become citizens.
 
 ## Personal Responsibility
 We are all members of a society. It is better for all when we share some of our wealth to do things collectively that would be prohibitively expensive or logistical nightmares for us to do individually. Our government should be as nimble and efficient as possible without compromising its function, and we should be free to build individual and generational wealth, but we must not create dynasties of obscene, untaxed wealth that unduly influences our government and economy.
