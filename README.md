@@ -34,7 +34,7 @@ I am a libertarian. That is not a bad word. It simply means that I believe in pr
 
 I am a progressive. That is not a bad word. It simply means that we should work to improve things for ourselves and others.
 
-I am a socialist. That is not a bad word. It simply means that government has a key role in things like healthcare and a strong social safety net.
+I am a socialist. That is not a bad word. It simply means that government has a key role in certain things like providing healthcare and a strong social safety net.
 
 I am a capitalist. That is not a bad word. It simply means that private ownership and free enterprise are engines that drive our economy.
 
@@ -53,14 +53,14 @@ I hope you share them too.
 ## Education
 Our first duty to the future is to educate. We must share the things we have learned in life. We were afforded great opportunities by our predecessors and we must not let those go to waste. As I write this, our population is about seven and a half billion. Over our history, there have been on the order of a hundred billion people born. Conservatively assuming a average lifespan of only 30 years, that is over 200 times the age of our Universe worth of human experiences.
 
-Everything we have and everything we do is built atop that. It is criminal and a great sign of disrespect not to learn and share as much as we can.
+Everything we have, and everything we do is built upon that. It is criminal and disrespectful not to learn and share as much as we can.
 
 ### Arts and the Humanities
 It is easy to focus on learning the things that we think will pay us back financially. This is blind.
 
 Architecture, art, poetry, music, etc. are all things that enrich our lives greatly. It is a sign that something is wrong with our society that the people who devote their lives focusing on these endeavors are not rewarded commensurately. We should do all that we can to rectify that unless we want to live in a bland world without style or beauty.
 
-We may not all be interested in pursuing any of these as our primary focus, but all of us can benefit from tasting a bit of many forms creativity. Without trying, we can never know how much what we want to do later in life might benefit from what we might have learned.
+We may not all be interested in pursuing any of these as our primary focus, but all of us can benefit from tasting a bit of many forms creativity. Without that, we will never know how much the things we want to do later in life might benefit from what we might have learned, so these should be an integral part of our education.
 
 ### Civics
 An understanding of civics is fundamental to fulfilling our duty and responsibility as citizens to be well informed and active participants in our government. For that reason, we must ensure that civics are taught as a core part of education at all levels. We must all understand how our government works, and how to operate the various knobs and levers that influence it.
@@ -87,10 +87,12 @@ Unfortunately the greatest threat to our environment now is the very success of 
 Although it is tempting, and sometimes prudent to put everything on the card, that path only leads to an ever-expanding portion of our economy being dedicated to paying down interest on past debt. This is not sustainable and we must make hard choices that don't rely on magical thinking or fantasy to get us on a sustainable path.
 
 ## Healthcare
-It is as wrong for me as an employer to dictate your healthcare as it would be for me to dictate what you can do with your salary. We should not be afraid to lose our jobs because of the consequences that will have to our medical care or that of our families. For these reasons, healthcare should be decoupled from employment. Although it may be possible to get the best care in the world here, as Americans, we spend more and get less than almost any other first world country. We need to rectify that. It is our duty to ourselves, our friends, our families, and our futures.
+It is as wrong for me as an employer to dictate your healthcare as it would be for me to dictate what you can do with your salary. We should not be afraid to lose our jobs because of the consequences that will have to our medical care or that of our families. For these reasons, healthcare should be decoupled from employment. Although it may be possible to get the best care in the world here, as Americans, we spend more and get less than almost any other first world country. We need to fix that. It is our duty to ourselves, our friends, our families, and our futures.
 
 ## Immigration
-We are a nation of immigrants. It is what defines us and regular replenishing is one of our greatest sources of strength. That is not to say that our borders should be completely open, but our continued strength as a nation and our very survival is dependent on making it possible for people who believe in the American dream to come here and become citizens.
+We are a nation of immigrants.
+
+It is what defines us and regular replenishing of our populous with new blood is one of our greatest sources of strength. That is not to say that our borders should be completely open, but our continued strength as a nation and our very survival is dependent on making it possible for people who believe in the American dream to come here and become citizens.
 
 ## Personal Responsibility
 We are all members of a society. It is better for all when we share some of our wealth to do things collectively that would be prohibitively expensive or logistical nightmares for us to do individually. Our government should be as nimble and efficient as possible without compromising its function, and we should be free to build individual and generational wealth, but we must not create dynasties of obscene, untaxed wealth that unduly influences our government and economy.
@@ -100,7 +102,7 @@ Personal success and profit are good, but these things must not come at the expe
 It is wrong for wealthy people who live on investment income to pay a smaller percentage in taxes than their lowest paid employees. It is good to be able to pass down what we have worked hard for, but it is wrong for the insanely rich to pass down billions to their heirs untaxed. These are not in conflict.
 
 ## Research and Infrastructure
-In order to ensure the fiscal and technological wellbeing of our descendants, it is crucial that we invest in basic and applied research, and in hard and soft Infrastructure. These are things that have direct and obvious benefits, but their true value is hidden because we can not know all of the ways that they will pay off down the line.
+In order to ensure the fiscal and technological wellbeing of our descendants, it is crucial that we invest in basic and applied research, and in hard and soft infrastructure. These are things that have direct and obvious benefits, but their true value is hidden because we can not know all of the ways that they will pay off down the line.
 
 ## Service
 We all have a duty to engage in some form of service where we can. That service can be in the form of volunteering, taking an active part in civics, or in the military. When people have lost limbs or lives in service to our country, we have a responsibility to remember what they did for us and to take care of them and their families.
@@ -119,5 +121,7 @@ As a scientist and engineer, this has always seemed peculiar to me because the h
 This is a living document and is intended only as a guide and to set the tone. It is far from comprehensive, but it should contain enough information for you to make informed judgements from, and it should, in broad strokes, show you who I am, what I believe in, and what motivated me to enter politics.
 
 Maybe I am naive but although I know we haven't always lived up to it, I believe in the American ideals of applying ourselves and building something from nothing. We should be the good guys. Even when it's hard and we are tempted to take the easy path, we should do the right things. We should stand up and lead the world - and that means looking honestly at ourselves, seeing where we can improve, digging in, and getting there.
+
+Thank you very much.
 
 If you have any suggestions to improve it, they are welcome.
