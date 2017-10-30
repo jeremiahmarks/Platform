@@ -115,4 +115,6 @@ As a scientist and engineer, this has always seemed peculiar to me because the h
 ## Conclusions
 This is a living document and is intended only as a guide and to set the tone. It is far from comprehensive, but it should contain enough information for you to make informed judgements from, and it should, in broad strokes, show you who I am, what I believe in, and what motivated me to enter politics.
 
+Maybe I am naive but although I know we haven't always lived up to it, I believe in the American ideals of applying ourselves and building something from nothing. We should be the good guys. Even when it's hard and we are tempted to take the easy path, we should do the right things. We should stand up and lead the world - and that means looking honestly at ourselves, seeing where we can improve, digging in, and getting there. 
+
 If you have any suggestions to improve it, they are welcome.
