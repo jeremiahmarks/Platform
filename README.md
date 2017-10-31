@@ -20,7 +20,7 @@ Honor matters. Our words matter. The truth matters.
 
 Good people can make mistakes, but when we do, we must face them, accept responsibility, and learn from them to ensure that we do not repeat them.
 
-When our elected officials - our President, our representatives in Congress, our Governors, and Mayors, and state and local legislators speak, they speak with our collective voice. We must not allow that voice to be used in vain. We have a sacred duty both to our nation's founders, and to our progeny that we pick well.
+When our elected officials speak, they speak with our collective voice. We must not allow that voice to speak badly or to be used in vain.
 
 Our government comes from us. If it does not work, it is our failing. It is true that money and deception exert an outsized influence, however it is only through our laziness and indifference that they are allowed to do so.
 
@@ -34,17 +34,17 @@ I am a libertarian. That is not a bad word. It simply means that I believe in pr
 
 I am a progressive. That is not a bad word. It simply means that we should work to improve things for ourselves and others.
 
-I am a socialist. That is not a bad word. It simply means that government has a key role in certain things like providing healthcare and a strong social safety net.
+I am a socialist. That is not a bad word. It simply means that government has a key role in things like efficiently providing healthcare and a strong social safety net.
 
 I am a capitalist. That is not a bad word. It simply means that private ownership and free enterprise are engines that drive our economy.
 
 You may think these things are in conflict. You are wrong. Each complements the others. For that reason, I am an independent. That is not a bad word. It simply means that I apply a core set of principles to each decision and arrive at my own conclusions without being a member of a particular team, and without being invested in particular paths to achieve common goals.
 
-For all of our differences, we share so much in common. All it takes is free and open discussion to find those things, and once we do, the will to determine the best course of action to achieve them and the desire and wherewithal to follow through.
+For all of our differences, we share so much in common. All it takes is free and open discussion to find those things, and once we do, the will to determine the best course of action to achieve them and the desire to follow through.
 
 These are my core values.
 
-They guide me and I do my best to follow them.
+They guide me and I endeavor to follow them.
 
 I think they are good.
 
