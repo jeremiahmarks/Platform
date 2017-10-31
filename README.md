@@ -12,7 +12,7 @@ It is critical that we invest in our future. There are so many things that matte
 
 An educated citizenry is required to protect and nurture our democracy. Education is essential - not simply because it may help us earn more money, but because it will enrich our lives in ways that we can't imagine, and it will make us better citizens and stewards.
 
-Money can be a good thing, but it is not the end-all be-all of our existence. There are other things that matter more. At its essence, money has no intrinsic value. Its only real worth stems from the things it enables us to do that actually have value. The blind accumulation of money and its use to distort our government is a disease of the very soul of our country. This must be treated or it will destroy us.
+Money can be a good thing, but it is not the end-all be-all of our existence. There are other things that matter more. At its essence, money has no intrinsic value. Its only real worth stems from the things it enables us to do that have real value. The blind accumulation of money and its use to distort our government is a disease of the very soul of our country. This must be treated or it will destroy us.
 
 So long as we are willing and able to work, we should all have the opportunity to succeed and to thrive. We should be able to provide for our families. We are a wealthy, enlightened nation. None among us should be forced to live on the streets or suffer needlessly. None of us should die for want of basic medical care. None of our families should be financially devastated because of a tragic accident or illness.
 
