@@ -58,7 +58,7 @@ Everything we have, and everything we do is built upon that. It is criminal and 
 ### Arts and the Humanities
 It is easy to focus on learning the things that we think will pay us back financially. This is blind.
 
-Architecture, art, poetry, music, etc. are all things that enrich our lives greatly. It is a sign that something is wrong with our society that the people who devote their lives focusing on these endeavors are not rewarded commensurately. We should do all that we can to rectify that unless we want to live in a bland world without style or beauty.
+Architecture, art, poetry, music, etc. are all things that enrich our lives greatly. It is a sign that something is wrong with our society that the people who devote their lives to these endeavors are not rewarded commensurately. Unless we want to live in a bland world without style or beauty, we should do all that we can to rectify that.
 
 We may not all be interested in pursuing any of these as our primary focus, but all of us can benefit from tasting a bit of many forms creativity. Without that, we will never know how much the things we want to do later in life might benefit from what we might have learned, so these should be an integral part of our education.
 
