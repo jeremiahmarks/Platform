@@ -4,9 +4,9 @@ dated: 29 October, 2017
 ## Preamble
 I believe it is our duty and responsibility to act as stewards. We must do whatever we can to ensure that we leave the world better than we found it and ensure that the good things we have endure for future generations.
 
-This is the heart of what guides me and my team. It is the reason we are doing this - I want to do the hard things that it will take to get this done. We will work hard and make tough sacrifices. We will do the right things even though they are not expedient.
+This is the heart of what guides me and my team. It is the reason we are doing this - I want to do the hard things that it will take to get this done. We will work hard and make tough sacrifices. We will do the right things even when they are not expedient.
 
-I believe that the American experiment of representative democracy is worth preserving. While it is not perfect, it has shown enormous potential - not always realized, but, it does not take a great breadth or depth of knowledge of our history to see what we can accomplish in the moments when we come together for the greater good.
+I believe that the American experiment of representative democracy is worth preserving. While it is not perfect, it has shown enormous potential. It does not take a great breadth or depth of knowledge of our history to see what we can accomplish in the moments when we come together for the greater good.
 
 It is critical that we invest in our future. There are so many things that matter - improving education, protecting our environment, funding basic research. The return on these investments may not come tomorrow, but history has shown that it will come and its value will be greater than we can imagine.
 
