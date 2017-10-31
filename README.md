@@ -10,7 +10,7 @@ I believe that the American experiment of representative democracy is worth pres
 
 It is critical that we invest in our future. There are so many things that matter - improving education, protecting our environment, funding basic research. The return on these investments may not come tomorrow, but history has shown that it will come and its value will be greater than we can imagine.
 
-Many things are required to protect and nurture our democracy. An educated citizenry is at the foundation. Education is essential - not simply because it may help us earn more money, but because it will enrich our lives in ways that we can't imagine, and it will make us better citizens and stewards.
+An educated citizenry is required to protect and nurture our democracy. Education is essential - not simply because it may help us earn more money, but because it will enrich our lives in ways that we can't imagine, and it will make us better citizens and stewards.
 
 Money is a good thing, but it is not the end-all be-all of our existence. There are other things that matter more. At its essence, money has no intrinsic value unto itself. Its only real worth stems from the things it enables us to do that actually have value. The blind accumulation of money and its use to distort our government is a disease of the very soul of our country. This must be treated or it will destroy us.
 
