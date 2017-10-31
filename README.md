@@ -60,7 +60,7 @@ It is easy to focus on learning the things that we think will pay us back financ
 
 Architecture, art, poetry, music, etc. are all things that enrich our lives greatly. It is a sign that something is wrong with our society that the people who devote their lives to these endeavors are not rewarded commensurately. Unless we want to live in a bland world without style or beauty, we should do all that we can to rectify that.
 
-We may not all be interested in pursuing any of these as our primary focus, but all of us can benefit from tasting a bit of many forms creativity. Without that, we will never know how much the things we want to do later in life might benefit from what we might have learned, so these should be an integral part of our education.
+We can never know what we might have been able to do with the things we never learned.
 
 ### Civics
 An understanding of civics is fundamental to fulfilling our duty and responsibility as citizens to be well informed and active participants in our government. For that reason, we must ensure that civics are taught as a core part of education at all levels. We must all understand how our government works, and how to operate the various knobs and levers that influence it.
