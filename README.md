@@ -101,14 +101,23 @@ Personal success and profit are good, but these things must not come at the expe
 
 It is wrong for wealthy people who live on investment income to pay a smaller percentage in taxes than their lowest paid employees. It is good to be able to pass down what we have worked hard for, but it is wrong for the insanely rich to pass down billions to their heirs untaxed. These are not in conflict.
 
+## Marriage Equality
+Our campaign's first political event was the Phoenix Pride Rainbows Festival. I strongly support freedom and equity. You are free to believe whatever you like, and to act accordingly within your own life - up to the point where your freedom begins to impose upon others'. Nobody has a right to impose their religious beliefs on others, and we should all be happy and support people when they have found a partner, are happy, and want to celebrate and formalize their union.
+
 ## Research and Infrastructure
 In order to ensure the fiscal and technological wellbeing of our descendants, it is crucial that we invest in basic and applied research, and in hard and soft infrastructure. These are things that have direct and obvious benefits, but their true value is hidden because we can not know all of the ways that they will pay off down the line.
 
-## Service
+## Service and Veterans
 We all have a duty to engage in some form of service where we can. That service can be in the form of volunteering, taking an active part in civics, or in the military. When people have lost limbs or lives in service to our country, we have a responsibility to remember what they did for us and to take care of them and their families.
+
+## Small Business
+Although starting a business isn't for everyone, I am a huge supporter of things that make it easier for more people to strike out and take chances. Today, it is extremely dangerous if not practically impossible for most people to start a business because of the capital requirements, the difficulty of ensuring that they and their families will be protected if they get sick or injured. This is one reason why universal healthcare is essential. It unties people's hands and makes it possible for them to leave bad jobs and take risks by starting new businesses. I have only been able to do what I have done because I had a bit of savings and a lot of support from friends and family. Many people aren't so lucky and something like a minimum basic income that allows them to subsist while they're starting out would go a long way toward leveling the playing field and making it easier for people to press through the hard times that are inevitable as they are starting something new.
 
 ## Truth and Honesty
 These are core values that matter, and we must hold one another accountable. Intentionally being dishonest is not acceptable and should not be tolerated - particularly when it is an ongoing thing. Lying and deception are contrary to the goal of preserving our democracy.
+
+## Unions
+As with protecting the environment, the successes of organized labor and collective bargaining have made us forget its necessity. There has to be a balance between the rights of businesses and the rights of workers. At one point in history, that scale may have been tipped too far in favor of workers, but today it has gone too far in the other direction. We must protect people's right to organize and bargain collectively in order to ensure the ongoing health and sustainability of the middle class.
 
 ## Focus on goals not paths
 I'm consistently surprised in talking with people of all political stripes to learn how many things we agree on.
