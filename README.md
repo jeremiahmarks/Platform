@@ -1,5 +1,5 @@
 # My Platform
-dated: 29 October, 2017
+dated: 3 November, 2017
 
 ## Preamble
 I believe it is our duty and responsibility to act as stewards. We must do whatever we can to ensure that we leave the world better than we found it and ensure that the good things we have endure for future generations.
